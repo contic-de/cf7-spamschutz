@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Sicherheitslücke melden
+    url: https://github.com/contic-de/cf7-spamschutz/blob/main/SECURITY.md
+    about: Bitte nicht als öffentliches Issue, sondern wie in SECURITY.md beschrieben.
